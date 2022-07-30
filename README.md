@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://abor3b.io)
 <h1 align="center">Hi 👋, I'm Rayan / Abor3b</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Front-End + Back-End developer from Palestine</h3>
 <img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1000397256329015316/1003027773134209074/code-syntax-dark-minimal-4k-mr-removebg-preview.png">
 
 
