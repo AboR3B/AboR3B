@@ -24,11 +24,10 @@
 
 <h4 align="center">Contacts:</h4>
 <p align="center">
-<a href="https://discord.com/users/217353461933670403"><img src="https://lanyard.cnrad.dev/api/217353461933670403?animated=true"></a>
+<a href="https://discord.com/users/911051728282079262"><img src="https://lanyard.cnrad.dev/api/911051728282079262?animated=true"></a>
 <br>
 <h5 align="center">My Github's Most Used Langauge:</h5>
 <br>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ABOR3B&show_icons=true&locale=en&langs_count=10" alt="ABOR3B" width="410" height="218"/>
 </p>
-
