@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently focused mostly on **C#**
 
-- 📫 **Contact Me Via Discord https://discord.com/users/217353461933670403**
+- 📫 **Contact Me Via Discord https://discord.com/users/911051728282079262**
 
 - ⚡ Useless fact **PHP Based API's are slow as fuck**
 
