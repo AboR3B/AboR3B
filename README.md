@@ -24,7 +24,7 @@
 
 <h4 align="center">Contacts:</h4>
 <p align="center">
-<a href="https://discord.com/users/911051728282079262"><img src="https://lanyard.cnrad.dev/api/911051728282079262?animated=true"></a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/911051728282079262)](https://discord.com/users/911051728282079262)
 <br>
 <h5 align="center">My Github's Most Used Langauge:</h5>
 <br>
